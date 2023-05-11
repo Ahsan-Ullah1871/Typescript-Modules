@@ -72,6 +72,10 @@ class dogClass extends AnimalClass {
 	}
 }
 
+
+
+// 
+
 const getAnimal = (animal: AnimalClass) => {
 	if (animal instanceof dogClass) {
 		animal.makeDog();

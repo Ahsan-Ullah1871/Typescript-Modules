@@ -13,7 +13,7 @@ class Animal {
 	constructor(
 		public name: string,
 		public spices: string,
-		public sound: string
+		public sound: string,
 	) {}
 
 	// method

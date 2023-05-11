@@ -1,6 +1,6 @@
-// const createArray = (param: string): string[] => {
-// 	return [param];
-// };
+// // const createArray = (param: string): string[] => {
+// // 	return [param];
+// // };
 
 // const createGenericArray = <T>(param: T): T[] => {
 // 	return [param];

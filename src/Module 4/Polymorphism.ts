@@ -64,3 +64,15 @@ class Rectangle extends Shape {
 		return this.height * this.width;
 	}
 }
+
+
+
+function showArea(param: Shape){
+   return  param.getArea()
+}
+
+
+console.log('====================================');
+console.log(showArea(new Circle(2)));
+
+console.log('====================================');
